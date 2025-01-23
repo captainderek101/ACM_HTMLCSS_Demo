@@ -1,0 +1,19 @@
+* {
+    background-color: lightcyan;
+    color:#2f4f4f;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+body, div {
+    margin: 30px;
+}
+.container {
+    padding: 10px;
+    border: dashed cornflowerblue;
+}
+#Links {
+    border-style: solid;
+}
+a {
+    color: rgb(255, 127, 80);
+}
